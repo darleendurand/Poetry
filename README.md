@@ -2,11 +2,17 @@
 <!DOCTYPE html>
 <html>
  
+ <head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/my_styles.css">
+ </head>
+ 
   <h1>The Road Not Taken</h1>
   <h2>By Robert Frost</h2>
   
-  <pre>
+  
   <body>
+   <pre>
   <p>
     <blockquote>
 "Two roads diverged in a yellow wood,
