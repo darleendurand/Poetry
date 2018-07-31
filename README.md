@@ -5,6 +5,12 @@
  <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="css/my_styles.css">
+ 
+ <style>
+  blockquote {text-align: center;
+   }
+ </style>
+ 
  </head>
  
   <h1>The Road Not Taken</h1>
