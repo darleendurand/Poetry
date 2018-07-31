@@ -1,14 +1,16 @@
 # Poetry
 <!DOCTYPE html>
 <html>
-  <pre>
+ 
   <h1>The Road Not Taken</h1>
   <h2>By Robert Frost</h2>
+  
+  <pre>
   <body>
   <p>
     <hr>
     <blockquote>
-      "Two roads diverged in a yellow wood,
+"Two roads diverged in a yellow wood,
 And sorry I could not travel both
 And be one traveler, long I stood
 And looked down one as far as I could
