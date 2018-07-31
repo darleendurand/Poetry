@@ -37,7 +37,7 @@ And that has made all the difference."
     </p>
     </pre>
     
-    <p>"'The Road Not Taken' by Robert Frost is a poem narrated by a lone traveler confronted with two roads, symbolizing the journey of life and the decisions we make on that journey. The narrator chose the path that was 'grassy and wanted wear,' which demonstrates the desire many of us have for individuality and adventure."</p>
+    <p>'The Road Not Taken' by Robert Frost is a poem narrated by a lone traveler confronted with two roads, symbolizing the journey of life and the decisions we make on that journey. The narrator chose the path that was 'grassy and wanted wear,' which demonstrates the desire many of us have for individuality and adventure.</p>
   </body>
  
 </html>
